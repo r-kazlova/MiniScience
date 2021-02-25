@@ -1,0 +1,3 @@
+C:/Users/Risha/CLionProjects/mesh/cmake-build-debug/CMakeFiles/mesh.dir
+C:/Users/Risha/CLionProjects/mesh/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Risha/CLionProjects/mesh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
